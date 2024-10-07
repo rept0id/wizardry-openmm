@@ -1,4 +1,4 @@
-# wizardry-openmm
+# lab-openmm
 
 ![](./doc/assets/img/header1.png)
 
